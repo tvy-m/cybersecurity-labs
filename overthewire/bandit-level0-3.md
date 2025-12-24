@@ -32,7 +32,7 @@ access the server and locate the password for the next level.
 
 \## What I Learned
 
-\- How to connect to a remote Linux server
+\- how to connect to a remote Linux server
 
-\- Basic file listing and file reading commands
+\- basic file listing and file reading commands
 
