@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 \# Bandit — Levels 0 → 3
 
 
