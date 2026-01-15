@@ -1,0 +1,10 @@
+## Levels 8–13
+- Text processing: grep, sort, uniq
+- Encoded data: base64
+- Compressed files: gzip, bzip2, tar
+- Binary inspection: strings, xxd
+
+## Security Takeaways
+- Secrets often hide in logs or encoded data
+- Compression doesn't equal encryption
+- Text processing is critical for log analysis
